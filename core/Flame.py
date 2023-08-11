@@ -8,7 +8,7 @@ os.system("pip install pymongo[srv]")
 from cogs.ticket import createTicket, closeTicket
 # ------------------------------ PREFIX AND INTENTS  -----------------------------------------
 
-OWNER_IDS = [928125031991627816,871260709307158538,877922339382243328,918527734748164128,908723197862621218]
+OWNER_IDS = [926796822104670238]
 intents = discord.Intents.all()
 
 # ------------------------------ DATABASE  -----------------------------------------
